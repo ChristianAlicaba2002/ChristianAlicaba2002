@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Christian Dave Alicaba and I'm a  passionate to become Software Engineer and DevOps from Phillippines.</h2>
+<h2 align="center">Hi 👋! I'm Christian Dave Alicaba <br> I'm a  passionate to become Software Engineer and DevOps from Phillippines.</h2>
 
 ###
 
