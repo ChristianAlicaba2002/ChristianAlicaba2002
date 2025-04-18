@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Christian Dave Alicaba <br> I'm a  passionate to become Software Engineer from Phillippines.</h2>
+<h2 align="center">Hi 👋! I'm Christian Dave Alicaba <br> I'm a  passionate to become a Software Engineer from Phillippines.</h2>
 
 ###
 <div align="center">
