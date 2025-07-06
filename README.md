@@ -1,5 +1,6 @@
-# 💫 About Me:
-Computer Science
+# 💫 About Me: Just a person who love Tech
+
+Talk is cheap , show me the code
 
 
 ## 🌐 Socials:
