@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Christian and I'm a Computer Science, from Philippines.</h1>
+<h1 align="center">Hey👋 it's me Christian from the Philippines</h1>
 
 ###
 
