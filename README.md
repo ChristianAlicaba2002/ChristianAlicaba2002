@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋 I'm Christian from the Philippines.</h1>
+<h1 align="center">Hey👋 I'm Christian</h1>
 
 ###
 
