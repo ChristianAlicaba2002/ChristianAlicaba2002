@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey👋 I'm Christian Hi, a passionate Software Developer who enjoys building modern, scalable, and user-friendly applications.
+Hey👋 I'm Christian, a passionate Software Developer who enjoys building modern, scalable, and user-friendly applications.
 
 # 📊 GitHub Stats:
 <div align="center">
