@@ -1,5 +1,7 @@
 # 💫 About Me:
 Hey👋 I'm Christian, a passionate Software Developer who enjoys building modern, scalable, and user-friendly applications.
+---
+![Profile Views](https://komarev.com/ghpvc/?username=ChristianAlicaba2002&color=blue)
 
 # 📊 GitHub Stats:
 <div align="center">
