@@ -7,8 +7,8 @@ Hey👋 I'm Christian, a passionate Software Developer who enjoys building moder
 <div align="center">
   
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ChristianAlicaba2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
-![](https://github-readme-stats.shion.dev/api?username=ChristianAlicaba2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://YOUR-VERCEL-APP.vercel.app/?user=ChristianAlicaba2002&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api?username=ChristianAlicaba2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</br>
+![GitHub Streak](https://streak-stats.demolab.com/?user=ChristianAlicaba2002&theme=dark&hide_border=false)
 
 
 </div>
