@@ -20,7 +20,7 @@ interface Profile {
 }
 
 const profile: Profile = {
-  name: "ChristianAlicaba",
+  name: "Christian Dave L. Alicaba",
   status: "Computer Science Student 🎓",
   location: "Cebu, Philippines 🇵🇭",
   goal: "Becoming a Software Engineer",
