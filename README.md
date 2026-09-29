@@ -15,6 +15,7 @@ interface Profile {
   currentFocus: string[];
   interests: string[];
   techStack: string[];
+  deployment: string[];
   tools: string[];
   motto: string;
 }
@@ -28,11 +29,11 @@ const profile: Profile = {
   interests: ["Cross-Platform Apps", "Clean Architecture", "AI"],
   techStack: [
     "C#", "JavaScript", "PHP", "Python", "TypeScript", "HTML5", "CSS3",
-    "Cloudflare", "Firebase", "Vercel", ".NET", "Expo", "Express.js",
-    "FastAPI", "Next.js", "Node.js", "React", "React Native", "React Query",
-    "React Router", "TailwindCSS", "MySQL", "Microsoft SQL Server",
-    "MariaDB", "PostgreSQL",
+    ".NET", "Expo", "Express.js","FastAPI", "Next.js", "Node.js","Firebase",
+    "React", "React Native", "React Query","React Router", "TailwindCSS",
+    "MySQL", "Microsoft SQL Server","MariaDB", "PostgreSQL",
   ],
+  deployment: ["Vercel", "Cloudflare"],
   tools: [
     "Git", "GitHub", "GitHub Actions", "Docker", "Vitest", "Figma",
     "Postman", "Swagger", "Jira", "Linear", "Trello",
